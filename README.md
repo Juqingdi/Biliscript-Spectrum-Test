@@ -1,5 +1,5 @@
 # Biliscript-Spectrum-Test
-[【弹幕黑科技】频谱测试 【Approaching Nirvana_SP】 – You](https://www.bilibili.com/video/av3079448)
+[【弹幕黑科技】频谱测试 【Approaching Nirvana_SP】 – You](https://www.bilibili.com/av3079448)
 <br>
 <br>
 # 程序算法来源
